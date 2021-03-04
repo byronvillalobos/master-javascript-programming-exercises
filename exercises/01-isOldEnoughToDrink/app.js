@@ -4,4 +4,4 @@ if (age<21)return false;
     else return true;
 }
 
-console.log(isOldEnoughToDrink(22));
+console.log(isOldEnoughToDrink(17));
