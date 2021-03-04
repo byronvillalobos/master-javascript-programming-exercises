@@ -10,6 +10,6 @@ function getProperty(obj, key) {
 
 }
 
-var output = getProperty(car, 'Marca');
+var output = getProperty(car, 'Model');
 console.log(output); // --> 'value'
 
